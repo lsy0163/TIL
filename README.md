@@ -1,2 +1,1 @@
-# TIL
-Tody I Learned
+Tody I Learned(Wiki)
